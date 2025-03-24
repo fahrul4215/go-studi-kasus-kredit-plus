@@ -1,0 +1,6 @@
+app:
+  name: go-studi-kasus-kredit-plus
+  description: Go Studi Kasus Kredit Plus
+  version: 0.0.1
+  port: 8080
+  host: localhost # or 0.0.0.0

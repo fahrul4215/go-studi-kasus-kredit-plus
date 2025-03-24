@@ -37,6 +37,8 @@ go get github.com/fzipp/gocyclo/cmd/gocyclo@latest #Cyclomatic complexity
 
 ```bash
 go get github.com/swaggo/swag #Swagger
+go get github.com/swaggo/files
+go get github.com/swaggo/gin-swagger
 ```
 
 ### Database:
